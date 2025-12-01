@@ -9,7 +9,8 @@
     },
     "autoload": {
         "psr-4": {
-        "SAPb1\\": "SAPb1/"
+            "SAPb1\\": "SAPb1/"
+        }
     },
     "version":"1.0.3",
     "minimum-stability": "stable"
